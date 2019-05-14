@@ -10,4 +10,8 @@ console.log("are you ok");
 console.log("Anh hoang pro");
 console.log("Tran hong phuc");
 console.log("Hoang tan nguyen chuong");
+<<<<<<< HEAD
 console.log("Dong tan phu");
+=======
+console.log("loz");
+>>>>>>> add new line console.log
